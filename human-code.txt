@@ -1,0 +1,56 @@
+Richiesta base:
+- implementare un layout assegnato come esercitazione pomeridiana:
+
+1)Prendo il nome della repo dal messaggio su slack.
+    -apro slack
+    -copio il nome della repo
+
+
+2)Creo una repo su GitHub con quel nome.
+    -apro un browser
+    -vado su github
+    -creo nuova repository
+
+
+3)Clono la repo nel mio PC tramite VSC.
+    -apro VSC
+    -clono la repo
+
+
+4)Creo tutti i file necessari per l'esercizio su VSC.
+    -vado su explorer di VSC
+    -creo nuovi file e/o cartelle
+
+
+5)Visualizzo quello .html e inizio a commentare e creare sezioni in base al layout dato.
+    -apro il file .html
+    -osservo il layout dato e lo divido mentalmente in varie parti
+    -adatto questa divisione in linguaggio html e ogni parte la attribuisco ad un contenitore diverso in html
+    -SE tutto mi piace vado avanti
+    ALTRIMENTI ricontrollo i vari nomi e la divisione fatta, correggo e vado avanti
+    -metto tutto in staging, faccio un commit e pusho.
+
+
+6)Macrostrutturo ogni sezione.
+    -suddivido una sezione in vari contenitori che conterranno i vari contenuti visti nel layout
+    SE penso vadi bene vado avanti
+    ALTRIMENTI ricontrollo il tutto, correggo e vado avanti
+    -RIPETO il tutto per ogni sezione
+    SE penso vadi bene vado avanti
+    ALTRIMENTI ricontrollo il tutto, correggo e vado avanti
+    -metto tutto in staging, faccio un commit e pusho.
+    
+
+7)Riempio ogni sezione con i propri contenuti
+    -riempio una sezione con i propri contenuti
+    SE non riesco a fare qualcosa provo per 10 minuti a farla
+    SE ci riesco vado avanti
+    ALTRIMENTI aspetto 30 minuti e: SE non trovo una soluzione apro un ticket
+                                    ALTRIMENTI vado avanti
+    -Finita una parte metto tutto in staging, faccio un commit, pusho e vado con la prossima.
+    -RIPETO il tutto per ogni sezione
+    
+    
+    
+
+    
